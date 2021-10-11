@@ -1,0 +1,277 @@
+
+* {
+  font-family: "Montserrat", sans-serif; /* Семейство шрифтов */
+  background-color: #ffffff; /* Цвет фона веб-страницы */
+  color: #111111; /* Цвет основного текста */
+}
+
+body {
+  margin: 0px;
+  height: 960px;
+  width: 1680px;
+  left: -958px;
+  top: -495px;
+  border-radius: 0px;
+}
+
+.fig {
+  text-align: center; /* Выравнивание по центру */ 
+}
+  
+  
+
+
+.margin-2 {
+  text-decoration: none;
+}
+
+
+.btn-header {
+  height: 18px;
+  width: 95px;
+  color: #fff;
+  background-color: #2B99FF;
+  padding: 10px 16px;
+  
+}
+
+
+.margin-2 {
+  /* Link */
+
+position:absolute;
+left: 4.24%;
+right: 4.24%;
+top: 82.24%;
+bottom: 0%;
+
+/* Travel/Links */
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 120%;
+/* or 19px */
+text-align: center;
+
+/* Travel/ Primary 01 */
+color: #2B99FF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+}
+
+.margin {
+/* Uniquely pontificate future-proof core competencies through process-centric metrics. Synergistically develop end-to-end platforms vis-a-vis extensive value. */
+
+position: static;
+left: 3.08%;
+right: 3.08%;
+top: 68.67%;
+bottom: 0%;
+
+/* Travel/ B1 */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 145%;
+/* or 26px */
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Travel/ Gray 8 */
+color: #4A4A4A;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 24px 0px;
+}
+
+p{
+  /* Uniquely pontificate future-proof core competencies through process-centric metrics. Synergistically develop end-to-end platforms vis-a-vis extensive value. */
+
+position: static;
+left: 3.08%;
+right: 3.08%;
+top: 68.67%;
+bottom: 0%;
+
+/* Travel/ B1 */
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 145%;
+/* or 26px */
+text-align: center;
+letter-spacing: 0.01em;
+
+/* Travel/ Gray 8 */
+color: #4A4A4A;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 24px 0px;
+
+}
+
+.margin-3 {
+position:absolute;
+
+
+/* Travel/ Button */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 100%;
+
+
+/* Travel/ Gray 1 */
+color: #FDFDFD;
+
+}
+
+textarea{
+  /* Default */
+  
+  position:static;
+  
+  
+  /* Travel/ B1 */
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 345%;
+  /* or 26px */
+  text-align:left;
+  letter-spacing: 0.01em;
+  
+  /* Travel/ Gray 7 */
+  color: #B7B7B7;
+    
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 16px;
+  
+  position: static;
+  width:332px;
+  height:56px;
+  left: 0px;
+  top: 0px;
+  
+  /* Travel/ Gray 6 */
+  
+  border: 1px solid #CECECE;
+  box-sizing: border-box;
+  border-radius: 8px;
+  
+  /* Inside Auto Layout */
+  
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 0px -50px  600px;
+
+
+
+}
+
+  .btn{
+  /* Buttons */
+
+/* Auto Layout */
+
+flex-direction: row;
+align-items: center;
+padding: 0px 16px;
+
+position: static;
+width: 127px;
+height: 56px;
+left: 356px;
+top: 0px;
+
+/* Travel/ Primary 01 */
+background: #2B99FF;
+border-radius: 8px;
+
+
+/* Default */
+
+position: static;
+width:127px;
+height:46px;
+left: 16px;
+top: 19px;
+
+/* Travel/ Button */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 18px */
+text-align: center;
+letter-spacing: 0.02em;
+
+/* Travel/ Gray 1 */
+color: #FDFDFD;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin:  0px 0px 0px 954px;
+
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
